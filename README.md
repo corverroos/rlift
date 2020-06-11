@@ -1,3 +1,5 @@
 # rlift
 
-rlift provides [liftbridge](https://github.com/liftbridge-io/liftbridge) based implementations of [reflex](https://github.com/luno/reflex) events and cursors.
+rlift wraps the [liftbridge](https://github.com/liftbridge-io/liftbridge) client to provide implementations of [reflex](https://github.com/luno/reflex) event streams and cursors.
+
+Note this is small experiment only.
